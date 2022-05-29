@@ -1,4 +1,4 @@
-   ## ToDo Mini App.
+   ## ToDo Mini App
    
    * https://todo-mini-app.netlify.app/
 
